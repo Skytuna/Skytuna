@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 💬 Ask me about **React, React Native and Electron.js**
+- 💬 Ask me about **React, React Native and Electron**
 
 - 📫 How to reach me **berkegoktuna17@gmail.com**
 
