@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
 <h3 align="center">A passionate frontend developer from Turkey, Izmir</h3>
 
-- 🔭 Currently working on **Tipotly**
-
 - 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **berkegoktuna17@gmail.com**
