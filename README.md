@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-<h3 align="center">A passionate frontend developer from Turkey, Izmir</h3>
 
-<a href="https://www.berkegoktuna.com" target="_blank" rel="noreferrer">Visit my website</a>
+<a href="https://www.berkegoktuna.com" target="_blank" rel="noreferrer"><h3 align="center">Visit my website</h3></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
