@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
 <h3 align="center">A passionate frontend developer from Turkey, Izmir</h3>
 
-- 💬 Ask me about **React, React Native**
-
-- 📫 How to reach me **berkegoktuna17@gmail.com**
+<a href="https://www.berkegoktuna.com" target="_blank" rel="noreferrer">Visit my website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
