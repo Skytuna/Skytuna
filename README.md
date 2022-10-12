@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
 
-<a href="https:/berkegoktuna.com" target="blank">
+<a href="https://www.berkegoktuna.com" target="blank">
   <h3 align="center">Visit my website</h3>
 </a>
 
