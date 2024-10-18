@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
 
 <h3 align="center">
-  <a href="https://www.berkegoktuna.com/" target="_blank" rel="noreferrer">
+  <a href="https://berke-goktuna-portfolio-skytuna.vercel.app" target="_blank" rel="noreferrer">
     Visit my website
   </a>
 </h3>
